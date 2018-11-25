@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "Z:/Shared Folder VPC/Verilog Projects/alu/alu.xst" -ofn "Z:/Shared Folder VPC/Verilog Projects/alu/alu.syr" 
+xst -intstyle ise -ifn "Z:/Shared Folder VPC/Verilog Projects/alu/alu.xst" -ofn "Z:/Shared Folder VPC/Verilog Projects/alu/alu.syr" 
